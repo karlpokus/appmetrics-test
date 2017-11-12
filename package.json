@@ -1,0 +1,23 @@
+{
+  "name": "appmetrics-test",
+  "version": "0.0.1",
+  "description": "appmetrics fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpokus/appmetrics-test.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpokus/appmetrics-test/issues"
+  },
+  "homepage": "https://github.com/karlpokus/appmetrics-test#readme",
+  "dependencies": {
+    "appmetrics-dash": "^3.3.6",
+    "express": "^4.16.2"
+  }
+}
